@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "push_PROD": "sh deploy.sh prod"
+    "push_PROD": "sh deploy.sh prod",
+    "deploy": "npm run build && node ./deploy/ghpages.js"
   },
   "dependencies": {
     "axios": "^0.21.1",
