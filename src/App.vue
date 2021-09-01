@@ -69,7 +69,7 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-main class="ma-0 pa-0">
+    <v-main class="ma-0 pb-0">
       <!-- <v-content class="ma-0 pa-0"> -->
       <router-view/>
       <!-- </v-content> -->
