@@ -9,23 +9,23 @@
       class="elevation-0"
     >
       <div class="d-flex align-center">
-        <v-img
+        <!-- <v-img
           alt="Cathay Logo"
           class="shrink mr-0"
           contain
           src="./assets/cathay-financial-logo.svg"
           transition="scale-transition"
           width="100"
-        />
+        /> -->
 
         <h1
-          alt="Cathay Name"
+          alt="Name"
           class="shrink mt-1 hidden-sm-and-down"
           contain
           min-width="100"
           width="100"
           color="#42865F"
-        > Cathay | Public Opinion Map </h1>
+        > Public Opinion Map </h1>
       </div>
 
       <v-spacer></v-spacer>
